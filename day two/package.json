@@ -1,0 +1,9 @@
+{
+    "type": "module",
+    "scripts": {
+        "start": "npx json-server db.json"
+    },
+    "devDependencies": {
+        "json-server": "^0.17.0"
+    }
+}

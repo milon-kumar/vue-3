@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc5c926e-597a-4f32-9ce1-d78ea12f87b9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day two/js/component/language.js" beforeDir="false" afterPath="$PROJECT_DIR$/day two/js/component/language.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day two/js/component/languageList.js" beforeDir="false" afterPath="$PROJECT_DIR$/day two/js/component/languageList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day two/js/component/languages.js" beforeDir="false" afterPath="$PROJECT_DIR$/day two/js/component/languages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day two/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/day two/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2C0lRPSTIwrk9RJcZSpAILH4VCt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jugol Kumar\Desktop\New folder\vue3\day one\js\component" />
+      <recent name="C:\Users\Jugol Kumar\Desktop\New folder\vue3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jugol Kumar\Desktop\New folder\vue3\day one" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc5c926e-597a-4f32-9ce1-d78ea12f87b9" name="Default Changelist" comment="" />
+      <created>1657947374019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657947374019</updated>
+      <workItem from="1657947375604" duration="16341000" />
+      <workItem from="1657982821629" duration="262000" />
+      <workItem from="1657983551455" duration="13237000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="5" key="SettingsEditor" timestamp="1657983740802">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="184" y="5" key="SettingsEditor/0.0.1366.720@0.0.1366.720" timestamp="1657983740802" />
+  </component>
+</project>

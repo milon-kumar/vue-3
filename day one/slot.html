@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en" class="h-full">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Slot</title>
+    <script src="https://unpkg.com/vue@3.2.37"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <style>
+
+           .is-loading{
+            color: white !important;
+        }
+        
+        @keyframes spinner {
+            to {
+                transform: rotate(360deg);
+            }
+        }
+
+     
+        .is-loading:before {
+            content: '';
+            box-sizing: border-box;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 20px;
+            height: 20px;
+            margin-top: -10px;
+            margin-left: -10px;
+            border-radius: 50%;
+            border: 1px solid #f6f;
+            border-top-color: #0e0;
+            border-right-color: #0dd;
+            border-bottom-color: #f90;
+            animation: spinner .6s linear infinite;
+        }
+    </style>
+
+</head>
+
+<body class="h-full grid place-items-center	">
+
+    <div id="app">
+
+        <com-one :processing="true"> one </com-one>
+
+    </div>
+
+
+
+    <script type="module">
+        import myMainApp from "./js/component/app.js"
+
+        Vue.createApp(myMainApp).mount("#app");
+    </script>
+</body>
+
+</html>

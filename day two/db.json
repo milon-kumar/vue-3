@@ -1,0 +1,34 @@
+{
+  "programs":[
+    {
+      "lang": "Node Js",
+      "learn": false,
+      "id": 1,
+      "tag":"develop"
+    },
+    {
+      "lang": "Html",
+      "learn": false,
+      "id": 1,
+      "tag":"design"
+    },
+    {
+      "lang": "css",
+      "learn": false,
+      "id": 1,
+      "tag":"design"
+    } ,
+    {
+      "lang": "php",
+      "learn": true,
+      "id": 1,
+      "tag":"develop"
+    },
+    {
+      "lang": "React Js",
+      "learn": false,
+      "id": 3,
+      "tag":"development"
+    }
+  ]
+}
